@@ -11,31 +11,31 @@ void main (){
   8. Symbols
    */
 
-  // Integer Data Types
+  /// Integer Data Types
   var x = 10;
   int y = 10;
   print(x);
   print(y);
   print(x+y);
 
-  // Double Data Types
+  /// Double Data Types
   var a = 10.50;
   double b = 11.20;
   print(a);
   print(b);
   print(a+b);
 
-  // String Data Types
+  /// String Data Types
   var name = "Abdul Hamim Leon";
   print(name);
 
-  // Boolean Data Types
+  /// Boolean Data Types
   var d = true;
   bool e = false;
   print(d);
   print(e);
 
-  // List Data Types
+  /// List Data Types
   var programmingList = ["C", "C++", "Java", "Dart", 10, 20.5, false];
   print(programmingList); //print the whole list
   print(programmingList[3]); //print by index number
